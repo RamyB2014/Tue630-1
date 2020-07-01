@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar;es" xml:lang="ar" SourceLanguage="en" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceSourceControlBound="true" SourceSourceControlProviderType="Git" SourceSourceControlDatabase="file:///C:/Users/madmin/AppData/Local/MadCap Software/NewProject-1/.git/" SourceSourceControlDatabaseRoot="git@github.com:RamyB2014/sourceFiles.git/Source/Flare" SourceProjectGuid="c885d2ec-1a73-408b-8b9a-4f0807fcea47" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="90d9563d-782d-4c8a-8e97-d5a557bf6b1d">
+    <ProjectFile Source="Target/Test.flprj" Target="Target/Test.flprj" />
+    <ProjectFile Source="Target/Test-1.flprj" Target="Target/Test-1.flprj" />
+</LingoProject>
